@@ -29,7 +29,7 @@ To set up this project locally, follow these steps:
 1. Run the app using the command 'flutter run'.
 
 # Contributing
-We welcome contributions to enhance the functionality and user experience of this application. Please feel free to open an issue or submit a pull request with your suggestions.
+I welcome contributions to enhance the functionality and user experience of this application. Please feel free to open an issue or submit a pull request with your suggestions.
 
 # License
 This project is licensed under the MIT License.
